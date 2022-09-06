@@ -1,0 +1,17 @@
+.todo-container {
+    background-color: rgb(209, 219, 219);
+    padding: 20px 0px 100px 0px;
+    height: 100vh;
+}
+
+.enterTask {
+  width: 200px;
+  height: 25px;
+
+}
+
+.addBtn {
+    width: 70px;
+    height: 35px;
+    margin-left: 20px;
+}
